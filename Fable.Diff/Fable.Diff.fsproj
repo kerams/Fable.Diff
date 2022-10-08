@@ -7,8 +7,8 @@
     <Authors>kerams</Authors>
     <Description>Fable bindings for diff</Description>
     <RepositoryUrl>https://github.com/kerams/Fable.Diff</RepositoryUrl>
-    <PackageLicenseUrl>https://github.com/kerams/Fable.Diff/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageTags>fsharp;fable;diff;jsdiff</PackageTags>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>fsharp;fable;fable-binding;fable-javascript;diff;jsdiff</PackageTags>
   </PropertyGroup>
   <PropertyGroup>
     <NpmDependencies>
